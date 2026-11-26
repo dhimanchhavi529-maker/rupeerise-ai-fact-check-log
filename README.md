@@ -25,7 +25,7 @@ Author: chhavi · BBA (FinTech), Chitkara Business School · Tools: Claude, Chat
 |---|---|
 | Claims checked | __ |
 | Correct | __ |
-| Outdated / Distorted / Fabricated / Unsupported | __ / __ / __ / __ |
+| Outdated / Distorted / Fabricated / Unsupported | _1_ / _2_ / _3_ / __4 |
 | Rated "High confidence" by AI but wrong | __ |
 | Perplexity citations that fully supported the claim | __ of __ |
 | Tool comparison score (Claude vs ChatGPT, /10) | __ vs __ |
